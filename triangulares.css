@@ -1,0 +1,96 @@
+body {
+    background-image:url(fundo.jpg);
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.texto {
+    text-align: center;
+    width: 30%;
+    height: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 110%;
+    border: 6px solid;
+    margin: 10px auto 10px auto;
+    padding: 6px;
+}
+.perfis {
+    width: 180px;
+    height: 180px;  
+}
+.teste {
+    width: 300px;
+}
+#local {
+    font-size: 200%;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 30px;
+    float: right;
+    font-weight: bold;
+}
+.sobre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 130%;
+    text-align: center;
+    padding-top: 10%;
+    width: 600px;
+    margin-left: 25%;
+}
+#principal {
+    width: 300px;
+}
+#icone {
+    list-style-image: url(icone.png);
+}
+.formulario {
+    padding-top: 10%;
+    font-size: 130%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.participantes {
+    padding-top: 10%;
+    font-size: 170%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.locais a {
+    color: black;
+    text-decoration: none;
+}
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 6px;
+}
+
+.footer-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    font-size: 14px;
+}
+
+.footer-links {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.footer-links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
